@@ -1,0 +1,13 @@
+Make your level by simply creating a txt file and putting it 
+in this workspace!
+
+Use capital x to specify an enemy, and '#', '-', '|' for obstacles
+The maximum dimension is 20 rows by 100 columns.
+
+Note that elements of the UI may cover some aspects of your level
+
+            (enemy emoji may slightly mess up spacing)
+
+
+
+
